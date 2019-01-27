@@ -1,0 +1,12 @@
+mutation updateCourse($id: Int!, $topic: String!){
+  updateCourseTopic(id: $id, topic: $topic){
+    ...courseFileds
+  }
+}
+
+fragment courseFileds on Course {
+  id
+  title
+  author
+  topic
+}

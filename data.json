@@ -1,0 +1,25 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "NodeJS Course",
+            "author": "Jhon Carter",
+            "topic": "JavaScript",
+            "url": "https://facebook.com"
+        },
+        {
+            "id": 2,
+            "title": "JAVA Course",
+            "author": "Jhon Carter",
+            "topic": "JavaScript",
+            "url": "https://facebook.com"
+        },
+        {
+            "id": 3,
+            "title": "C Course",
+            "author": "Jhon Carter",
+            "topic": "JavaScript",
+            "url": "https://facebook.com"
+        }
+    ]
+}
